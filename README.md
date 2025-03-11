@@ -217,7 +217,13 @@ This software is licensed under the MIT License. See the **LICENSE** file for mo
 
 **CLI screenshots**
 
-![language](toolImages/language.jpg)
+![cli](toolImages/cli.jpg)
+
+![cli](toolImages/cli1.jpg)
+
+![cli](toolImages/cli2.jpg)
+
+
 
 
 
