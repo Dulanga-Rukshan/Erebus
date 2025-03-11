@@ -216,9 +216,57 @@ This software is licensed under the MIT License. See the **LICENSE** file for mo
 
 
 **CLI screenshots**
+**Image 01**
+![cli](toolImages/cli.jpg)
+* * *
+**Image 02**
+![cli](toolImages/cli1.jpg)
+* * *
+**Image 03**
+![cli](toolImages/cli2.jpg)
 
-![language](toolImages/language.jpg)
 
+* * *
+
+**GUI screenshots**
+**Image 01**
+![GUI](toolImages/language.jpg)
+* * *
+**Image 02**
+![GUI](toolImages/edited3.jpg)
+* * *
+**Image 03**
+![GUI](toolImages/edited4.jpg)
+* * *
+**Image 04**
+![GUI](toolImages/photo_13_2025-03-11_19-22-51.jpg)
+* * *
+**Image 05**
+![GUI](toolImages/photo_1_2025-03-11_19-22-51.jpg)
+* * *
+**Image 06**
+![GUI](toolImages/photo_2_2025-03-11_19-22-51.jpg)
+* * *
+**Image 07**
+![GUI](toolImages/photo_3_2025-03-11_19-22-51.jpg)
+* * *
+**Image 08**
+![GUI](toolImages/photo_5_2025-03-11_19-22-51.jpg)
+* * *
+**Image 09**
+![GUI](toolImages/edited2.jpg)
+* * *
+**Image 10**
+![GUI](toolImages/edited5.jpg)
+* * *
+**Image 11**
+![GUI](toolImages/photo_4_2025-03-11_19-22-51.jpg)
+* * *
+**Image 12**
+![GUI](toolImages/photo_8_2025-03-11_19-22-51.jpg)
+* * *
+**Image 13**
+![GUI](toolImages/photo_9_2025-03-11_19-22-51.jpg)
 
 
 
