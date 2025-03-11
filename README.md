@@ -1,6 +1,6 @@
-# **Erebus - Military Grade File Encryption (Version 1.1)**
+# **Erebus - Military Grade File Encryption (Version 1.0)**
 
-**Erebus** is an advanced encryption solution designed to protect sensitive data with military-level security. Combining robust AES-256 encryption with a user-friendly interface, Erebus ensures that individuals and organizations can safeguard confidential documents, financial records, and personal data against unauthorized access. Built for modern security needs, Erebus implements NIST-approved algorithms while maintaining an intuitive workflow that requires no technical expertise. With enterprise-grade protection, it defends against digital threats without compromising usability.
+**Erebus** is an advanced encryption solution designed to protect sensitive data with military level security. Combining robust AES-256 encryption with a user friendly interface, Erebus ensures that individuals and organizations can safeguard confidential documents, financial records, and personal data against unauthorized access. Built for modern security needs, Erebus implements NIST approved algorithms while maintaining an intuitive workflow that requires no technical expertise. With enterprise grade protection, it defends against digital threats without compromising usability.
 
 ---
 
@@ -50,9 +50,8 @@
 
 ## **Developed With:**
 
-- **PyQt7** for modern GUI implementation  
+- **PyQt6** for modern GUI implementation  
 - **Cryptography.io's Fernet encryption specification**  
-- **OpenSSL 3.0** for cryptographic operations
 
 ---
 
@@ -63,10 +62,9 @@
 - Python 3.x  
 - PyQt7  
 - Cryptography library
-- OpenSSL (Optional, depending on your system)
 
 ---
-# **Erebus - Military Grade File Encryption (Version 1.1)**
+# **Erebus - Military Grade File Encryption (Version 1.0)**
 
 ## **Installation for GUI Version:**
 ---------------------------------
@@ -74,13 +72,13 @@
 1.  **Clone the repository**: Open a terminal or command prompt and run:
     
     ```bash
-    git clone https://github.com/yourusername/erebus.git
+    git clone https://github.com/Dulanga-Rukshan/Erebus.git
     ```
 
 2.  **Navigate to the project directory**:
     
     ```bash
-    cd erebus
+    cd erebus/erebusGui
     ```
 
 3.  **Create a virtual environment** (recommended):
@@ -112,7 +110,7 @@
 6.  **Run the GUI version**: Once the dependencies are installed, you can run the application:
     
     ```bash
-    python gui_version.py
+    python erebusGui.py
     ```
 
 7.  **Follow the prompts in the GUI** to start encrypting or decrypting files.
@@ -126,13 +124,13 @@
 1.  **Clone the repository**: Open a terminal or command prompt and run:
     
     ```bash
-    git clone https://github.com/yourusername/erebus.git
+    https://github.com/Dulanga-Rukshan/Erebus.git
     ```
 
 2.  **Navigate to the project directory**:
     
     ```bash
-    cd erebus
+    cd erebus/erebusCli
     ```
 
 3.  **Create a virtual environment** (recommended):
@@ -176,10 +174,10 @@
 ----------
 
 - **GUI Version:**  
-    The GUI version provides an intuitive interface. After running the program, simply click to encrypt or decrypt files. You'll be guided through a visual step-by-step process.
+    The GUI version provides an intuitive interface. After running the program, simply click to encrypt or decrypt files. You'll be guided through a visual step by step process.
     
 - **CLI Version:**  
-    For the command-line version, follow the on-screen prompts to select encryption or decryption tasks. Enter the required file path and password when prompted.
+    For the command line version, follow the on screen prompts to select encryption or decryption tasks. Enter the required file path and password when prompted.
     
 
 * * *
@@ -211,3 +209,19 @@ This software is licensed under the MIT License. See the **LICENSE** file for mo
 -----------------
 
 **Dulanga Rukshan**
+
+
+
+
+
+**Step 01**
+
+![Alt Text](toolImages/laguage.jpg)
+
+
+
+
+
+
+
+
