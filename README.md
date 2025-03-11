@@ -212,11 +212,13 @@ This software is licensed under the MIT License. See the **LICENSE** file for mo
 
 
 
+* * *
 
 
-**Step 01**
+**CLI screenshots**
 
-![Alt Text](toolImages/laguage.jpg)
+![language](toolImages/language.jpg)
+
 
 
 
