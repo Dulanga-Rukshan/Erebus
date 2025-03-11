@@ -1,0 +1,12 @@
+{
+  "configurations": {
+    "Python": {
+      "adapter": "debugpy",
+      "configuration": {
+        "request": "launch",
+        "program": "${file}",
+        "python": "/usr/bin/python3"
+      }
+    }
+  }
+}
