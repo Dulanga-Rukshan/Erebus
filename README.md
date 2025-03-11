@@ -66,7 +66,7 @@
 ### **Pre-requisites:**
 
 - Python 3.x  
-- PyQt7  
+- PyQt6  
 - Cryptography library
 
 ---
