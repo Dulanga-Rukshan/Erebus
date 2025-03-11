@@ -70,7 +70,6 @@
 - Cryptography library
 
 ---
-# **Erebus - Military Grade File Encryption (Version 1.0)**
 
 ## **Installation for GUI Version:**
 ---------------------------------
