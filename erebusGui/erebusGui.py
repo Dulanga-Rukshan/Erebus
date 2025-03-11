@@ -538,7 +538,7 @@ class AboutDialog(QDialog):
         layout.addWidget(titleLabel)
 
         aboutText = """
-                          Military Grade File Encryption (Version 1.1)
+                          Military Grade File Encryption (Version 1.0)
 
 Erebus is an advanced encryption solution designed to protect sensitive data with military level security.Combining robust AES-256 encryption with a user friendly interface, Erebus ensures that individuals and organizations can safeguard confidential documents, financial records, and personal data against unauthorized access. Built for modern security needs, Erebus implements NIST approved algorithms while maintaining an intuitive workflow that requires no technical expertise. With enterprise grade protection, it defends against digital threats without compromising usability.
 
