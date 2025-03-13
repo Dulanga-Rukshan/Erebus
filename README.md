@@ -13,10 +13,10 @@
 ## **Features:**
 
 - **AES-256 Encryption** (CBC mode with 128-bit blocks)  
-  Industry-leading encryption standard for maximum security.
+  Industry leading encryption standard for maximum security.
   
 - **PBKDF2HMAC-SHA256 key derivation** (100,000 iterations)  
-  Strengthens the encryption key for additional protection against brute-force attacks.
+  Strengthens the encryption key for additional protection against brute force attacks.
   
 - **BCrypt password hashing** (salt+pepper protection)  
   Secure password hashing to guard against rainbow table and other password attacks.
@@ -63,7 +63,7 @@
 
 ## **Installation Instructions:**
 
-### **Pre-requisites:**
+### **Pre requisites:**
 
 - Python 3.x  
 - PyQt6  
@@ -256,7 +256,7 @@ This software is licensed under the MIT License. See the **LICENSE** file for mo
 ![GUI](toolImages/edited2.jpg)
 * * *
 **Image 10**
-![GUI](toolImages/edited5.jpg)
+![GUI](toolImages/edited5.png)
 * * *
 **Image 11**
 ![GUI](toolImages/photo_4_2025-03-11_19-22-51.jpg)
