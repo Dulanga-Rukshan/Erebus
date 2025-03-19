@@ -4,7 +4,7 @@
 * * *
 
 
-# **Erebus - Military Grade File Encryption (Version 1.0)**
+# **Erebus - Military Grade File Encryption = Version 1.0**
 
 **Erebus** is an advanced encryption solution designed to protect sensitive data with military level security. Combining robust AES-256 encryption with a user friendly interface, Erebus ensures that individuals and organizations can safeguard confidential documents, financial records, and personal data against unauthorized access. Built for modern security needs, Erebus implements NIST approved algorithms while maintaining an intuitive workflow that requires no technical expertise. With enterprise grade protection, it defends against digital threats without compromising usability.
 
@@ -12,7 +12,7 @@
 
 ## **Features:**
 
-- **AES-256 Encryption** (CBC mode with 128-bit blocks)  
+- **AES-256 Encryption** (CBC mode with 128 bit blocks)  
   Industry leading encryption standard for maximum security.
   
 - **PBKDF2HMAC-SHA256 key derivation** (100,000 iterations)  
@@ -179,7 +179,7 @@
 ----------
 
 - **GUI Version:**  
-    The GUI version provides an intuitive interface. After running the program, simply click to encrypt or decrypt files. You'll be guided through a visual step by step process.
+    The GUI version provides an intuitive interface. After running the program, simply click to encrypt or decrypt files. You will be guided through a visual step by step process.
     
 - **CLI Version:**  
     For the command line version, follow the on screen prompts to select encryption or decryption tasks. Enter the required file path and password when prompted.
@@ -190,9 +190,9 @@
 ## **Important Notes:**
 --------------------
 
-- **Always maintain backup copies of your files and remember your passwords** – lost encryption keys cannot be recovered.
+- **Always maintain backup copies of your files and remember your passwords** – forget password files cannot be recovered.
 - Erebus is intended for **personal and enterprise use** to secure sensitive data.
-- **Do not share your password or encryption keys** with anyone to ensure your data remains private.
+- **Do not share your password** with anyone to ensure your data remains private.
 
 
 * * *
