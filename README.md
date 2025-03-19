@@ -24,7 +24,7 @@
 - **Defense against brute force & rainbow table attacks**  
   Multi-layered defense ensuring the highest protection of sensitive data.
   
-- **Cross-platform compatibility** (Windows/macOS/Linux)  
+- **Cross platform compatibility** (Windows/macOS/Linux)  
   Works seamlessly across multiple operating systems.
   
 - **Intuitive graphical interface** with progress tracking  
@@ -49,7 +49,7 @@
 - **Automatic memory sanitization**  
   Memory used during encryption and decryption is automatically cleared to prevent data leakage.
   
-- **Tamper-evident file integrity checks**  
+- **Tamper evident file integrity checks**  
   Protects against file corruption and tampering.
 
 ---
