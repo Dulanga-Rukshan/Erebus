@@ -4,15 +4,15 @@
 * * *
 
 
-# **Erebus - Military Grade File Encryption = Version 1.0**
+# **Erebus - Military grade file encryption = Version 1.0**
 
-**Erebus** is an advanced encryption solution designed to protect sensitive data with military level security. Combining robust AES-256 encryption with a user friendly interface, Erebus ensures that individuals and organizations can safeguard confidential documents, financial records, and personal data against unauthorized access. Built for modern security needs, Erebus implements NIST approved algorithms while maintaining an intuitive workflow that requires no technical expertise. With enterprise grade protection, it defends against digital threats without compromising usability.
+**Erebus** is an advanced encryption solution designed to protect sensitive data with military level security. Combining robust AES 256 encryption with a user friendly interface, Erebus ensures that individuals and organizations can safeguard confidential documents, financial records, and personal data against unauthorized access. Built for modern security needs, Erebus implements NIST approved algorithms while maintaining an intuitive workflow that requires no technical expertise. With enterprise grade protection, it defends against digital threats without compromising usability.
 
 ---
 
 ## **Features:**
 
-- **AES-256 Encryption** (CBC mode with 128 bit blocks)  
+- **AES 256 Encryption** (CBC mode with 128 bit blocks)  
   Industry leading encryption standard for maximum security.
   
 - **PBKDF2HMAC-SHA256 key derivation** (100,000 iterations)  
@@ -22,13 +22,13 @@
   Secure password hashing to guard against rainbow table and other password attacks.
   
 - **Defense against brute force & rainbow table attacks**  
-  Multi-layered defense ensuring the highest protection of sensitive data.
+  Multi layered defense ensuring the highest protection of sensitive data.
   
 - **Cross platform compatibility** (Windows/macOS/Linux)  
-  Works seamlessly across multiple operating systems.
+  Works across multiple operating systems.
   
 - **Intuitive graphical interface** with progress tracking  
-  Designed for ease of use with real-time encryption progress updates.
+  Designed for ease of use with real time encryption progress updates.
   
 - **Secure password validation & strength checking**  
   Ensures that user passwords are strong and secure before encryption begins.
@@ -40,14 +40,8 @@
 - **FIPS 140-2 compliant cryptographic protocols**  
   Ensures compliance with government standards for data encryption.
   
-- **Hardware accelerated encryption & decryption**  
-  Optimized performance for faster, more efficient encryption and decryption processes.
-  
 - **Zero knowledge architecture** (no keys stored)  
   No encryption keys are stored, enhancing privacy and reducing the risk of key theft.
-  
-- **Automatic memory sanitization**  
-  Memory used during encryption and decryption is automatically cleared to prevent data leakage.
   
 - **Tamper evident file integrity checks**  
   Protects against file corruption and tampering.
